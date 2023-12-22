@@ -1,0 +1,5 @@
+nl/digkas/oauth/authorization/server/web/HelloController.class
+nl/digkas/oauth/authorization/server/AuthServerApp.class
+nl/digkas/oauth/authorization/server/config/JwtCustomHeadersAccessTokenConverter.class
+nl/digkas/oauth/authorization/server/web/JwkSetRestController.class
+nl/digkas/oauth/authorization/server/config/JwkAuthorizationServerConfiguration.class
